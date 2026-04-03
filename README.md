@@ -1,4 +1,4 @@
-# ML Notebooks
+# Room Occupancy Detection
 
 This repository contains a machine learning notebook that builds an occupancy detection model from environmental sensor data.
 
